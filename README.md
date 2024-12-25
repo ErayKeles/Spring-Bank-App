@@ -163,6 +163,3 @@ For any inquiries or feedback, feel free to reach out:
 - **Email**: eraykelesk@gmail.com
 - **LinkedIn**: [Eray Keleş](https://linkedin.com/in/eraykeles)
 
----
-
-Simplify financial operations with the Spring Bank Application today!
